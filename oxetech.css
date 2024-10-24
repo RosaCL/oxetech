@@ -1,0 +1,31 @@
+header{
+    background-color: #741f84;
+    height: 10%;
+    padding-left: -15px;
+}
+body{
+    background-color: #741f84;
+}
+.dashboard{
+    margin-right: 75%;    
+    text-align: center;
+    background-color: #8e24aa;
+    margin-left: -15px;
+}
+li{
+    list-style: none;
+}
+.botoes{
+    text-align: start;
+    padding-left: 12px;
+}
+.pic{
+    width: 30%;
+    border-radius: 65px;
+
+}
+.skills{
+    background-color: aliceblue;
+    margin-left: 28%;
+    margin-top: -73%;
+}
